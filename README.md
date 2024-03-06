@@ -12,6 +12,8 @@ AndyXcopy是一种适用于Linux环境的高级本地文件复制工具，使用
 
 wget https://raw.githubusercontent.com/AndyX-Net/andyxcopy/main/andyxcopy.py && chmod +x andyxcopy.py
 
+./andyxcopy.py -h
+
 ----------
 
 **Usage:**
