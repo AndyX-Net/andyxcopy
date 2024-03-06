@@ -42,7 +42,7 @@ options:
 
 **Example:**
 
-andyxcopy.py -b 8 -p 10 -q /ai /ai2
+andyxcopy.py -b 8 -d 10 -q /ai /ai2
 
 ----------
 
